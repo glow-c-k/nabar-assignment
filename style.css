@@ -56,3 +56,40 @@ h2{
     font-weight: 100;
     font-size:medium;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+.body{
+    width:100%;
+    height: fit-content;
+    
+    text-align: center;
+}
+.signup{
+    
+    padding: 20px;
+    width: 60%;
+    margin: 10%  20%;
+}
+form{
+    background-color: #8080805d;
+    padding: 30px;
+    border-radius: 10px;
+}
+.inputs p{
+    font-style: oblique;
+    font-size: large;
+    font-weight: 200;
+}
+.inputs{
+    
+    margin-bottom: 30px;
+}
+input{
+    width: 40%;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid black;
+    outline: none;
+}
