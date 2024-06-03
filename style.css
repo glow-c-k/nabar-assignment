@@ -93,3 +93,12 @@ input{
     border: 1px solid black;
     outline: none;
 }
+#aqua{
+    width: 20%;
+    padding: 8px;
+    border: 1px solid black;
+    outline: none;
+}
+#aqua:hover{
+    background-color:aqua;
+}
